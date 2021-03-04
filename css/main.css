@@ -1,5 +1,5 @@
 body {
-  max-width: 60rem;
+  max-width: 48rem;
   margin: 0 auto;
 }
 
@@ -11,4 +11,9 @@ img {
   width: auto;
   max-width: 100%;
   height: auto;
+}
+
+img.full-width {
+  width: 100%;
+  max-width: none;
 }
