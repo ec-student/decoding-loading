@@ -1,1 +1,1 @@
-# how-to
+# Decoding & Loading Images
